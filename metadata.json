@@ -1,0 +1,7 @@
+{
+  "name": "Lumina AI Tutor",
+  "description": "A high-performance, personalized AI learning platform designed to help students master any subject with 24/7 intelligent guidance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
